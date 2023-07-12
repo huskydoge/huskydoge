@@ -5,7 +5,7 @@
 
 
 
-- 👋 Hi, I’m @huskydoge from SJTU, majored in Computer Science. <img align="right" src="https://github-readme-stats.vercel.app/api?username=huskydoge&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+- 👋 Hi, I’m @huskydoge from SJTU, majored in Computer Science.
 - 👀 I’m interested in AI interpretability, producing webs and softwares....
 - 🌱 I’m currently learning Flutter and Swift.
 - 💞️ I’m looking to collaborate on ...
@@ -17,8 +17,7 @@ huskydoge/huskydoge is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huskydoge)](https://github.com/huskydoge)
-
+ <img  src="https://github-readme-stats.vercel.app/api?username=huskydoge&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 
 
