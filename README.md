@@ -1,5 +1,5 @@
 
-<a target="_blank" href="https%3A%2F%2Fspace.bilibili.com%2F47337383%3Fspm_id_from%3D333.788.0.0" title="Woof"><img src="https://img.shields.io/badge/Bilibili-HuskyDoge-blue?logo=bilibili"></a>
+<a target="_blank" href="https://space.bilibili.com/47337383?spm_id_from=333.788.0.0" title="Woof"><img src="https://img.shields.io/badge/Bilibili-HuskyDoge-blue?logo=bilibili"></a>
 <a target="_blank" href="http://huskydoge.info/" title="Look"><img src="https://img.shields.io/badge/My%20Website-Home-blue?logo=wordpress"></a>
 
 
