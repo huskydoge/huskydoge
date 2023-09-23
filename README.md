@@ -10,9 +10,7 @@
 
 
 - 👋 Hi, I’m @huskydoge from SJTU, majored in Computer Science.
-- 👀 I’m interested in AI interpretability, producing webs and softwares....
-- 🌱 I’m currently learning Flutter and Swift.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in AI interpretability, producing webs and softwares.
 - 📫 You can reach me at hbh001098hbh@sjtu.edu.cn
 
 
@@ -35,4 +33,24 @@ You can click the Preview link to take a look at your changes.
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=huskydoge&theme=github-compact)
 
+## My Course Stacks
 
+<details>
+
+<summary>  Shanghai Jiao Tong University, Undergraduate</summary>
+</br>
+
+* [SJTU-ICE2601-Information Theory Final Project, Spring 2023](https://github.com/huskydoge/Exploration-on-Adaptive-Huffman)
+* [SJTU-CS3601-Computer Networking Group Project, Spring 2023](https://github.com/huskydoge/CS3611-videoStreaming-player)
+* [CS 2612, Programming Languages and Compilers, Fall 2023](https://github.com/huskydoge/CS2612-Programming-Languages-and-Compilers)
+* 
+</details>
+
+
+<details>
+
+<summary>Self-Learning Course</summary>
+
+
+
+</details>
