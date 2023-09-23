@@ -40,10 +40,12 @@ You can click the Preview link to take a look at your changes.
 <summary>  Shanghai Jiao Tong University, Undergraduate</summary>
 </br>
 
+* [SJTU-CS1605-Programming and Practice Group Project,2022 Summer Semester](https://github.com/huskydoge/SnakeGame)
+* [SJTU-ICE2604-Introduction to Software Engineering, Fall 2022]()
 * [SJTU-ICE2601-Information Theory Final Project, Spring 2023](https://github.com/huskydoge/Exploration-on-Adaptive-Huffman)
 * [SJTU-CS3601-Computer Networking Group Project, Spring 2023](https://github.com/huskydoge/CS3611-videoStreaming-player)
-* [CS 2612, Programming Languages and Compilers, Fall 2023](https://github.com/huskydoge/CS2612-Programming-Languages-and-Compilers)
-* [CS3601 Operating System,Fall 2023](https://github.com/huskydoge/CS3601-OS-2023)
+* [SJTU-CS2612-Programming Languages and Compilers, Fall 2023](https://github.com/huskydoge/CS2612-Programming-Languages-and-Compilers)
+* [SJTU-CS3601-Operating System,Fall 2023](https://github.com/huskydoge/CS3601-OS-2023)
 </details>
 
 
