@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 * [SJTU-ICE2601-Information Theory Final Project, Spring 2023](https://github.com/huskydoge/Exploration-on-Adaptive-Huffman)
 * [SJTU-CS3601-Computer Networking Group Project, Spring 2023](https://github.com/huskydoge/CS3611-videoStreaming-player)
 * [CS 2612, Programming Languages and Compilers, Fall 2023](https://github.com/huskydoge/CS2612-Programming-Languages-and-Compilers)
-* 
+* [CS3601 Operating System,Fall 2023](https://github.com/huskydoge/CS3601-OS-2023)
 </details>
 
 
