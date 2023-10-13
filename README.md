@@ -1,7 +1,8 @@
 
 <a target="_blank" href="https://space.bilibili.com/47337383?spm_id_from=333.788.0.0" title="Woof"><img src="https://img.shields.io/badge/Bilibili-HuskyDoge-blue?logo=bilibili"></a>
-<a target="_blank" href="http://huskydoge.info/" title="Look"><img src="https://img.shields.io/badge/My%20Website-Home-blue?logo=wordpress"></a>
-<a target="_blank" href="https://huskydoge.github.io/" title="Look"><img src="https://img.shields.io/badge/Intro-Home-blue?logo=wordpress"></a>
+<a target="_blank" href="http://huskydoge.info/" title="Look"><img src="https://img.shields.io/badge/Life Blog-Home-blue?logo=wordpress"></a>
+<a target="_blank" href="https://huskydoge.github.io/" title="Look"><img src="https://img.shields.io/badge/Intro-About Me-blue?logo=blogger"></a>
+<a target="_blank" href="https://huskydoge.github.io/husky-knowledge-library/" title="Cache"><img src="https://img.shields.io/badge/Knowledge-Cache-blue?logo=bloglovin"></a>
 
 <p align="center"> 
   Visitor count<br>
