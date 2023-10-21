@@ -41,18 +41,26 @@ You can click the Preview link to take a look at your changes.
 <summary>  Shanghai Jiao Tong University, Undergraduate</summary>
 </br>
 
-* [SJTU-CS1605-Programming and Practice Group Project,2022 Summer Semester](https://github.com/huskydoge/SnakeGame)
+* [SJTU-CS1605-Programming and Practice Group Project, 2022 Summer Semester](https://github.com/huskydoge/SnakeGame)
 * [SJTU-ICE2604-Introduction to Software Engineering, Fall 2022]()
 * [SJTU-ICE2601-Information Theory Final Project, Spring 2023](https://github.com/huskydoge/Exploration-on-Adaptive-Huffman)
-* [SJTU-CS3601-Computer Networking Group Project, Spring 2023](https://github.com/huskydoge/CS3611-videoStreaming-player)
+* [SJTU-CS3611-Computer Networking Group Project, Spring 2023](https://github.com/huskydoge/CS3611-videoStreaming-player)
 * [SJTU-CS2612-Programming Languages and Compilers, Fall 2023](https://github.com/huskydoge/CS2612-Programming-Languages-and-Compilers)
-* [SJTU-CS3601-Operating System,Fall 2023](https://github.com/huskydoge/CS3601-OS-2023)
+* [SJTU-CS3601-Operating System, Fall 2023](https://github.com/huskydoge/CS3601-OS-2023)
+* [SJTU-CS3602-NLP, Fall 2023](https://github.com/huskydoge/CS3602-NLP)
+* [SJTU-AI3603-Theory and application of artificial intelligence, Fall 2023](https://github.com/huskydoge/AI-3603-Theory-and-application-of-artificial-intelligence)
+* [Other Courses](https://github.com/huskydoge/SJTU-CourseStacks)
+  
 </details>
 
 
 <details>
 
 <summary>Self-Learning Course</summary>
+</br>
+
+* [The Complete JavaScript Course 2023, Udemy](https://www.bilibili.com/video/BV1vA4y197C7/?spm_id_from=333.337.search-card.all.click) (partially accomplished）
+
 
 
 
