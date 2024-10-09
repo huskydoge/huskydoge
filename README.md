@@ -1,6 +1,6 @@
 
 <a target="_blank" href="https://space.bilibili.com/47337383?spm_id_from=333.788.0.0" title="Woof"><img src="https://img.shields.io/badge/Bilibili-HuskyDoge-blue?logo=bilibili"></a>
-<a target="_blank" href="https://space.bilibili.com/47337383?spm_id_from=333.788.0.0" title="Woof"><img src="https://img.shields.io/badge/Zhihu-Dr.WooF-blue?logo=zhihu"></a>
+<a target="_blank" href="https://www.zhihu.com/people/huskydoge" title="Woof"><img src="https://img.shields.io/badge/Zhihu-DrWoFF-blue?logo=zhihu"></a>
 <a target="_blank" href="https://husky-blog-six.vercel.app/" title="Look"><img src="https://img.shields.io/badge/ReseachBlog-blue?logo=blogger"></a>
 <a target="_blank" href="https://huskydoge.github.io/" title="Look"><img src="https://img.shields.io/badge/HomePage-blue?logo=blogger"></a>
 <a target="_blank" href="https://huskydoge.github.io/husky-knowledge-library/" title="Cache"><img src="https://img.shields.io/badge/Cache-blue?logo=bloglovin"></a>
