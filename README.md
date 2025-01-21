@@ -12,7 +12,7 @@
 
 
 - 👋 Hi, I’m @huskydoge from SJTU, majored in Computer Science.
-- 👀 I’m interested in AI interpretability, interesting applications of LLM and producing webs and softwares.
+- 👀 I’m interested in World Models, Data Curations, AI interpretability, interesting applications of LLM and producing webs and softwares.
 - 📫 You can reach me at hbh001098hbh@sjtu.edu.cn
 
 
