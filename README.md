@@ -30,11 +30,6 @@
 - 🔬 **Research Interests** (priority ordered): World Models, Long-context Modeling, Efficient AI, Data Curation, AI Interpretability
 - 💌 Reach me at: `benhaoh@andrew.cmu.edu`
 
-<p align="center">
-  <sub>👀 Visitor Count</sub><br>
-  <img src="https://profile-counter.glitch.me/huskydoge/count.svg" />
-</p>
-
 
 ### 🚀 GitHub Stats & Activity
 
