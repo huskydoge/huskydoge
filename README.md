@@ -1,68 +1,76 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&multiline=true&width=600&lines=Hi%2C+I'm+Benhao+(%40huskydoge)%F0%9F%90%BE"/>
+</p>
+</p>
 
-<a target="_blank" href="https://space.bilibili.com/47337383?spm_id_from=333.788.0.0" title="Woof"><img src="https://img.shields.io/badge/Bilibili-HuskyDoge-blue?logo=bilibili"></a>
-<a target="_blank" href="https://www.zhihu.com/people/huskydoge" title="Woof"><img src="https://img.shields.io/badge/Zhihu-DrWoFF-blue?logo=zhihu"></a>
-<a target="_blank" href="https://husky-blog-six.vercel.app/" title="Look"><img src="https://img.shields.io/badge/ReseachBlog-blue?logo=blogger"></a>
-<a target="_blank" href="https://huskydoge.github.io/" title="Look"><img src="https://img.shields.io/badge/HomePage-blue?logo=blogger"></a>
-<a target="_blank" href="https://huskydoge.github.io/husky-knowledge-library/" title="Cache"><img src="https://img.shields.io/badge/Cache-blue?logo=bloglovin"></a>
+<p align="center">
+  <a href="https://space.bilibili.com/47337383" target="_blank" title="Bilibili">
+    <img src="https://img.shields.io/badge/Bilibili-HuskyDoge-blue?logo=bilibili" />
+  </a>
+  <a href="https://www.zhihu.com/people/huskydoge" target="_blank" title="Zhihu">
+    <img src="https://img.shields.io/badge/Zhihu-DrWoFF-blue?logo=zhihu" />
+  </a>
+  <a href="https://husky-blog-six.vercel.app/" target="_blank" title="Research Blog">
+    <img src="https://img.shields.io/badge/Research_Blog-blue?logo=blogger" />
+  </a>
+  <a href="https://huskydoge.github.io/" target="_blank" title="Homepage">
+    <img src="https://img.shields.io/badge/HomePage-blue?logo=blogger" />
+  </a>
+  <a href="https://huskydoge.github.io/husky-knowledge-library/" target="_blank" title="Knowledge Cache">
+    <img src="https://img.shields.io/badge/Knowledge_Cache-blue?logo=bloglovin" />
+  </a>
+</p>
 
-<p align="center"> 
-  Visitor count<br>
+---
+
+### 👨‍🎓 About Me
+
+- 🎓 Master’s in Machine Learning @ **Carnegie Mellon University**  
+  B.E. in Computer Science @ **Shanghai Jiao Tong University (SJTU)**
+- 🔬 **Research Interests** (priority ordered): World Models, Long-context Modeling, Efficient AI, Data Curation, AI Interpretability
+- 💌 Reach me at: `benhaoh@andrew.cmu.edu`
+
+<p align="center">
+  <sub>👀 Visitor Count</sub><br>
   <img src="https://profile-counter.glitch.me/huskydoge/count.svg" />
 </p>
 
 
-- 👋 Hi, I’m @huskydoge from SJTU, majored in Computer Science.
-- 👀 I’m interested in World Models, Data Curations, AI interpretability, interesting applications of LLM and producing webs and softwares.
-- 📫 You can reach me at hbh001098hbh@sjtu.edu.cn
+### 🚀 GitHub Stats & Activity
 
-
-<!---
-huskydoge/huskydoge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<p align="center"> 
- 
-  <img src="https://github-readme-stats.vercel.app/api?username=huskydoge&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huskydoge&style=compact" />
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=huskydoge&show_icons=true&theme=gruvbox_light&hide_title=true&hide_border=true&border_radius=12" height="180" />
 </p>
 
 
-
-
-
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=huskydoge&theme=github-compact)
-
-## My Course Stacks
+### 📚 My Course Stacks
 
 <details>
+<summary><strong>SJTU Undergraduate Coursework</strong></summary>
+<br>
 
-<summary>  Shanghai Jiao Tong University, Undergraduate</summary>
-</br>
+- 🎮 [CS1605 Programming & Practice Group Project](https://github.com/huskydoge/SnakeGame) – Summer 2022
+- 🛠️ ICE2604 Introduction to Software Engineering – Fall 2022
+- 🔢 [ICE2601 Information Theory Final Project](https://github.com/huskydoge/Exploration-on-Adaptive-Huffman) – Spring 2023
+- 🌐 [CS3611 Computer Networking Group Project](https://github.com/huskydoge/CS3611-videoStreaming-player) – Spring 2023
+- 🔣 [CS2612 Programming Languages and Compilers](https://github.com/huskydoge/CS2612-Programming-Languages-and-Compilers) – Fall 2023
+- 💻 [CS3601 Operating Systems](https://github.com/huskydoge/CS3601-OS-2023) – Fall 2023
+- 🧠 [CS3602 Natural Language Processing](https://github.com/huskydoge/CS3602-NLP) – Fall 2023
+- 🤖 [AI3603 Theory & Application of AI](https://github.com/huskydoge/AI-3603-Theory-and-application-of-artificial-intelligence) – Fall 2023
+- 📦 [Other Courses Repository](https://github.com/huskydoge/SJTU-CourseStacks)
 
-* [SJTU-CS1605-Programming and Practice Group Project, 2022 Summer Semester](https://github.com/huskydoge/SnakeGame)
-* [SJTU-ICE2604-Introduction to Software Engineering, Fall 2022]()
-* [SJTU-ICE2601-Information Theory Final Project, Spring 2023](https://github.com/huskydoge/Exploration-on-Adaptive-Huffman)
-* [SJTU-CS3611-Computer Networking Group Project, Spring 2023](https://github.com/huskydoge/CS3611-videoStreaming-player)
-* [SJTU-CS2612-Programming Languages and Compilers, Fall 2023](https://github.com/huskydoge/CS2612-Programming-Languages-and-Compilers)
-* [SJTU-CS3601-Operating System, Fall 2023](https://github.com/huskydoge/CS3601-OS-2023)
-* [SJTU-CS3602-NLP, Fall 2023](https://github.com/huskydoge/CS3602-NLP)
-* [SJTU-AI3603-Theory and application of artificial intelligence, Fall 2023](https://github.com/huskydoge/AI-3603-Theory-and-application-of-artificial-intelligence)
-* [Other Courses](https://github.com/huskydoge/SJTU-CourseStacks)
-  
 </details>
-
 
 <details>
+<summary><strong>🧪 Self-Learning</strong></summary>
+<br>
 
-<summary>Self-Learning Course</summary>
-</br>
-
-* [The Complete JavaScript Course 2023, Udemy](https://www.bilibili.com/video/BV1vA4y197C7/?spm_id_from=333.337.search-card.all.click) (partially accomplished）
-
-
-
+- 📘 [The Complete JavaScript Course 2023, Udemy (Bilibili Mirror)](https://www.bilibili.com/video/BV1vA4y197C7/?spm_id_from=333.337.search-card.all.click) *(In Progress)*
 
 </details>
+
+---
+
+<p align="center">
+  <em>“Fool like a Husky, Learn like a Dr. Woof”</em>
+</p>
