@@ -10,15 +10,15 @@
   <a href="https://www.zhihu.com/people/huskydoge" target="_blank" title="Zhihu">
     <img src="https://img.shields.io/badge/Zhihu-DrWoFF-blue?logo=zhihu" />
   </a>
-  <a href="https://husky-blog-six.vercel.app/" target="_blank" title="Research Blog">
+  <a href="https://husky-blog-six.vercel.app/" target="_blank" title="Blogs">
     <img src="https://img.shields.io/badge/Research_Blog-blue?logo=blogger" />
   </a>
-  <a href="https://huskydoge.github.io/" target="_blank" title="Homepage">
-    <img src="https://img.shields.io/badge/HomePage-blue?logo=blogger" />
-  </a>
-  <a href="https://huskydoge.github.io/husky-knowledge-library/" target="_blank" title="Knowledge Cache">
+<!--   <a href="https://huskydoge.github.io/" target="_blank" title="Homepage">
+    <img src="https://img.shields.io/badge/HomePage-blue?logo=xiaohongshu" />
+  </a> -->
+<!--   <a href="https://huskydoge.github.io/husky-knowledge-library/" target="_blank" title="Knowledge Cache">
     <img src="https://img.shields.io/badge/Knowledge_Cache-blue?logo=bloglovin" />
-  </a>
+  </a> -->
 </p>
 
 ---
