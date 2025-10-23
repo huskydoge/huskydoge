@@ -27,8 +27,6 @@
 
 - 🎓 Master’s in Machine Learning @ **Carnegie Mellon University**  
   B.E. in Computer Science @ **Shanghai Jiao Tong University (SJTU)**
-- 🔬 **Research Interests** (priority ordered): World Models, Long-context Modeling, Efficient AI, Data Curation, AI Interpretability
-- 💌 Reach me at: `benhaoh@andrew.cmu.edu`
 
 
 ### 🚀 GitHub Stats & Activity
