@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Zhihu-DrWoFF-blue?logo=zhihu" />
   </a>
   <a href="https://husky-blog-six.vercel.app/" target="_blank" title="Blogs">
-    <img src="https://img.shields.io/badge/Research_Blog-blue?logo=blogger" />
+    <img src="https://img.shields.io/badge/Blog-blue?logo=blogger" />
   </a>
 <!--   <a href="https://huskydoge.github.io/" target="_blank" title="Homepage">
     <img src="https://img.shields.io/badge/HomePage-blue?logo=xiaohongshu" />
