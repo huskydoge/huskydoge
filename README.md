@@ -4,15 +4,15 @@
 </p>
 
 <p align="center">
-  <a href="https://space.bilibili.com/47337383" target="_blank" title="Bilibili">
+  <!-- <a href="https://space.bilibili.com/47337383" target="_blank" title="Bilibili">
     <img src="https://img.shields.io/badge/Bilibili-HuskyDoge-blue?logo=bilibili" />
-  </a>
-  <a href="https://www.zhihu.com/people/huskydoge" target="_blank" title="Zhihu">
+  </a> -->
+  <!-- <a href="https://www.zhihu.com/people/huskydoge" target="_blank" title="Zhihu">
     <img src="https://img.shields.io/badge/Zhihu-DrWoFF-blue?logo=zhihu" />
-  </a>
-  <a href="https://husky-blog-six.vercel.app/" target="_blank" title="Blogs">
+  </a> -->
+  <!-- <a href="https://husky-blog-six.vercel.app/" target="_blank" title="Blogs">
     <img src="https://img.shields.io/badge/Blog-blue?logo=blogger" />
-  </a>
+  </a> -->
 <!--   <a href="https://huskydoge.github.io/" target="_blank" title="Homepage">
     <img src="https://img.shields.io/badge/HomePage-blue?logo=xiaohongshu" />
   </a> -->
@@ -26,9 +26,9 @@
 ### 👨‍🎓 About Me
 
 - 🎓 Master’s in Machine Learning @ **Carnegie Mellon University**  
-  B.E. in Computer Science @ **Shanghai Jiao Tong University (SJTU)**
+- 🎓 B.E. in Computer Science @ **Shanghai Jiao Tong University (SJTU)**
 
-
+<!--
 ### 🚀 GitHub Stats & Activity
 
 <p align="center">
@@ -63,7 +63,7 @@
 </details>
 
 ---
-
+-->
 <p align="center">
   <em>“Fool like a Husky, Learn like a Dr. Woof”</em>
 </p>
